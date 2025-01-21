@@ -1,0 +1,18 @@
+
+# ignore all video and pngs
+*.mp4
+*.mov
+*.MOV
+*.png
+*.JPG
+*.jpeg
+*.jpg
+
+*.app
+*.xcodeproj
+hainan.xcodeproj/
+obj/
+bin/
+
+!README.md
+!li_a.png

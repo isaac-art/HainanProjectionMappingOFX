@@ -1,0 +1,7 @@
+ofxOpenCv
+ofxCv
+ofxEasing
+ofxFatLines
+ofxGui
+ofxJSON
+ofxOsc
